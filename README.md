@@ -21,5 +21,5 @@
 
 따라서 많은 사람들이 더 다양한 학습 자료들로 효율적으로 공부할 수 있는 질의집중적 학습 도움 서비스 *Summar*를 개발하고자 한다.
 
-### 5) 
+### 5) System 구조도 & Database schema
 ![system구조](https://user-images.githubusercontent.com/66114269/101778175-dbfd1080-3b36-11eb-979d-662ae505e0ef.png)
