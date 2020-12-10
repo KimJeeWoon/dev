@@ -12,8 +12,8 @@
 
 #
 ### 3) *Summar* 프로토타입
-##### 웹 : https://ovenapp.io/view/12KyUpUeGKkwPzhtSOpT3KwEhgROwSom/hWBIt
-##### 모바일 앱 : https://ovenapp.io/view/T5oi5sgw02yE8U8ybRjnyy8L0OojOeyc/hWBIt
+- 웹 : https://ovenapp.io/view/12KyUpUeGKkwPzhtSOpT3KwEhgROwSom/hWBIt
+- 모바일 앱 : https://ovenapp.io/view/T5oi5sgw02yE8U8ybRjnyy8L0OojOeyc/hWBIt
 
 ### 4) *Summar*의 목적
 최근 untact 시대가 도래되며 혼자서 공부를 하는 사람들이 증가함에 따른 학습 도움 서비스의 필요성이 대두되고 있다.
