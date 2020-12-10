@@ -30,3 +30,20 @@
 
 ![db](https://user-images.githubusercontent.com/66114269/101778429-31392200-3b37-11eb-9384-8ba32ad5ff28.png)
 
+### 6) TextRank 기술
+
+
+### 7) 형태소 분석 & 개체명 인식
+
+
+### 8) 질의응답
+
+
+### 9) Reference
+- TextRank : https://wikidocs.net/91051
+- Word2Vec : https://github.com/Kyubyong/wordvectors
+- 형태소 분석 & 개체명 인식 : https://aiopen.etri.re.kr/guide_wiseNLU.php
+- 질의응답 : https://aiopen.etri.re.kr/guide_wiseQAnal.php
+
+### 10) License
+- Apache License 2.0
