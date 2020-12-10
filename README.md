@@ -8,7 +8,7 @@
 4. 오답 노트 : 문제 유형과 과목에 따른 개인 오답노트 제공
 
 ### 2) *Summar* 시연 영상
-
+- https://www.youtube.com/watch?v=fjagWVWUe5k&feature=youtu.be
 
 #
 ### 3) *Summar* 프로토타입
